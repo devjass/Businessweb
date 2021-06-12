@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "h:\\DESARROLLOS DJANGO\\Entornos Virtuales\\.venvs\\PROYECTO_WEB_PROFESIONAL_Y_PLAYGROUND-PvIn8NNH\\Scripts\\python.exe",
+    "[python]": {
+
+
+        "editor.wordBasedSuggestions": false
+    },
+    "python.linting.pylintArgs": ["--load-plugins=pylint_django", ]
+
+}
